@@ -1,1 +1,2 @@
 # GameApp-Arcade-Showcase
+#### GameApp Arcade Showcase is a collection of classic arcade games built using Cornell University's Game2D Package. The prokect began with the asteroids game which was made for the final project for Cornell University's CS1110 class. The additional games (space-invaders, galaga, and others to be added) were developed independently solely for this project. Additionally, the game menu to choose which game the user plays was made for iOS display in Swift and routes to the games using PythonKit. 
